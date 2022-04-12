@@ -237,6 +237,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/laurel_sprout/proprietary/vendor/firmware/cpp_firmware_v1_6_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_6_0.fw \
     vendor/xiaomi/laurel_sprout/proprietary/vendor/firmware/cpp_firmware_v1_8_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_8_0.fw \
     vendor/xiaomi/laurel_sprout/proprietary/vendor/firmware/focaltech-ft3518-sumsung.ini:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech-ft3518-sumsung.ini \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/firmware/goodix_cfg_group.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_cfg_group.bin \
+    vendor/xiaomi/laurel_sprout/proprietary/vendor/firmware/goodix_firmware.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_firmware.bin \
     vendor/xiaomi/laurel_sprout/proprietary/vendor/firmware/gtx8_limits.csv:$(TARGET_COPY_OUT_VENDOR)/firmware/gtx8_limits.csv \
     vendor/xiaomi/laurel_sprout/proprietary/vendor/firmware/ipa_fws.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b00 \
     vendor/xiaomi/laurel_sprout/proprietary/vendor/firmware/ipa_fws.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b01 \
